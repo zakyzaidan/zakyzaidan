@@ -9,7 +9,7 @@ I'm an informatics student at <a href=https://telkomuniversity.ac.id/>Telkom Uni
 
 
 -  🌱 &ensp;I’m currently learning **Web Dev**
--  🎯 &ensp;My goal is to become a fullstack and a software engineer
+-  🎯 &ensp;My goal is to become a fullstack web dev and a software engineer
 
 
 <h3 align="left">Connect with me</h3>

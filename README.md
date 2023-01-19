@@ -1,7 +1,8 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Zaky Zaidan </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Hello, I am an informatics student at <a href="https://telkomuniversity.ac.id/"> <b>Telkom University</b></a>. <br>
+    a passionate self-learner and interested in the IT field</h3>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  

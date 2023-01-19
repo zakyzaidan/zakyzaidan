@@ -8,7 +8,7 @@ I'm an informatics student at <a href=https://telkomuniversity.ac.id/>Telkom Uni
 
 
 
--  I’m currently learning **Web Dev and artificial intelligence**
+-  I’m currently learning **Web Dev**
 
 
 <h3 align="left">Connect with me:</h3>

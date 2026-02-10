@@ -1,19 +1,70 @@
+# Hi, I'm Zaky Zaidan 👋  
 
+🎓 Telkom University Graduate  
+📱 Flutter Mobile Developer  
+🤖 Exploring Data Analytics & AI  
+📍 Indonesia  
 
+---
 
-<h1 align="center">Hi 👋, I'm Zaky Zaidan</h1>
-<h3 align="center">A passionate self learner and interested in the IT field.<br>
-I'm an informatics student at <a href=https://telkomuniversity.ac.id/>Telkom University.</h3>
+## 🚀 About Me  
 
+I am passionate about building meaningful digital products through mobile development.  
+With a strong focus on Flutter and clean architecture principles, I enjoy creating scalable and user-centered applications.  
 
+Beyond mobile development, I explore **Python, Data Analytics, and AI** to integrate intelligent solutions into real-world applications.  
 
+I believe technology should solve real problems.
 
--  🌱 &ensp;I’m currently learning flutter dev and machine learning
+---
 
+## 🛠 Tech Stack  
 
+### 📱 Mobile Development  
+- Flutter (Dart)  
+- BLoC Pattern  
+- Clean Architecture  
+- REST API Integration  
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zaky-zaidan-b19824217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bonifasiustrg" height="30" width="40" /></a>
-<a href="https://instagram.com/zaky.zaidan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bonifasiustrg" height="30" width="40" /></a>
-</p>
+### 🧠 Data & AI  
+- Python  
+- Pandas & NumPy  
+- Scikit-learn  
+- NLP (spaCy)  
+- Machine Learning Basics  
+
+### 🗄 Backend & Tools  
+- Supabase (PostgreSQL)  
+- Firebase 
+- Git & GitHub  
+- Android Studio / VS Code    
+- Figma
+
+---
+
+## 📌 Highlight Projects  
+
+🔹 **Herbal App**  
+Mobile platform for herbal product discovery and consultation  
+Tech: Flutter, Supabase, BLoC, GoRouter  
+https://github.com/zakyzaidan/herbal_app
+
+🔹 **Telegram Herbal Chatbot (IEEE Published)**  
+Intelligent Q&A chatbot using NLP and Machine Learning  
+Tech: Python, SKLearn, spaCy, Ontology Modeling  
+
+🔹 **Movie App & Story App**  
+Flutter applications with Firebase integration and structured state management  
+https://github.com/zakyzaidan/cinelog_flutter |
+https://github.com/zakyzaidan/story_app
+
+---
+
+## 📫 Connect With Me  
+
+- GitHub: https://github.com/zakyzaidan  
+- LinkedIn:  https://www.linkedin.com/in/zaky-zaidan/
+
+---
+
+⭐ *Always Chase Great Think*

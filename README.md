@@ -1,70 +1,73 @@
-# Hi, I'm Zaky Zaidan 👋  
+<h1 align="center">Hi, I'm Zaky Zaidan 👋</h1>
 
-🎓 Telkom University Graduate  
-📱 Flutter Mobile Developer  
-🤖 Exploring Data Analytics & AI  
-📍 Indonesia  
+<p align="center">
+  🎓 Telkom University Graduate • 📱 Flutter Developer • 🤖 Data & AI Explorer <br>
+  📍 Indonesia
+</p>
+
+<p align="center">
+  <a href="https://github.com/zakyzaidan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/zaky-zaidan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I am passionate about building meaningful digital products through mobile development.  
-With a strong focus on Flutter and clean architecture principles, I enjoy creating scalable and user-centered applications.  
+I build **meaningful digital products** through mobile development.  
+Focused on **Flutter and Clean Architecture**, I create scalable and user-centered applications.
 
-Beyond mobile development, I explore **Python, Data Analytics, and AI** to integrate intelligent solutions into real-world applications.  
+Beyond mobile apps, I explore **Python, Data Analytics, and AI** to integrate intelligent systems into real-world solutions.
 
 I believe technology should solve real problems.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### 📱 Mobile Development  
-- Flutter (Dart)  
-- BLoC Pattern  
-- Clean Architecture  
-- REST API Integration  
+<p align="center">
 
-### 🧠 Data & AI  
-- Python  
-- Pandas & NumPy  
-- Scikit-learn  
-- NLP (spaCy)  
-- Machine Learning Basics  
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,supabase,firebase,mysql,git,github,vscode,androidstudio" />
 
-### 🗄 Backend & Tools  
-- Supabase (PostgreSQL)  
-- Firebase 
-- Git & GitHub  
-- Android Studio / VS Code    
-- Figma
+</p>
+
+### 📱 Mobile Development
+`Flutter` • `BLoC` • `Clean Architecture` • `REST API`
+
+### 🧠 Data & AI
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `spaCy`
+
+### 🗄 Backend & Tools
+`Supabase` • `Firebase` • `PostgreSQL` • `Figma`
 
 ---
 
-## 📌 Highlight Projects  
+## 📌 Highlight Projects
 
-🔹 **Herbal App**  
+### 🌿 Herbal App  
 Mobile platform for herbal product discovery and consultation  
-Tech: Flutter, Supabase, BLoC, GoRouter  
-https://github.com/zakyzaidan/herbal_app
+**Tech:** Flutter, Supabase, BLoC, GoRouter  
+🔗 https://github.com/zakyzaidan/herbal_app  
 
-🔹 **Telegram Herbal Chatbot (IEEE Published)**  
-Intelligent Q&A chatbot using NLP and Machine Learning  
-Tech: Python, SKLearn, spaCy, Ontology Modeling  
+---
 
-🔹 **Movie App & Story App**  
+### 🤖 Telegram Herbal Chatbot (IEEE Published)  
+Intelligent Q&A chatbot using NLP & Machine Learning  
+**Tech:** Python, SKLearn, spaCy, Ontology Modeling  
+
+---
+
+### 🎬 Movie App & 📖 Story App  
 Flutter applications with Firebase integration and structured state management  
-https://github.com/zakyzaidan/cinelog_flutter |
-https://github.com/zakyzaidan/story_app
+🔗 https://github.com/zakyzaidan/cinelog_flutter  
+🔗 https://github.com/zakyzaidan/story_app  
 
 ---
 
-## 📫 Connect With Me  
-
-- GitHub: https://github.com/zakyzaidan  
-- LinkedIn:  https://www.linkedin.com/in/zaky-zaidan/
-
----
-
-⭐ *Always Chase Great Think*
+<p align="center">
+  ⭐ <i>Always Chase Great Thing</i>
+</p>

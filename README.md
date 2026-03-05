@@ -25,6 +25,8 @@ Beyond mobile apps, I explore **Python, Data Analytics, and AI** to integrate in
 
 I believe technology should solve real problems.
 
+you can find me on <a href="https://zakyzaidan.github.io/">https://zakyzaidan.github.io/</a>
+
 ---
 
 ## 🛠 Tech Stack
